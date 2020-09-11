@@ -2,3 +2,4 @@ Version 1
 GitExtension Changed Again
 
 A
+B
